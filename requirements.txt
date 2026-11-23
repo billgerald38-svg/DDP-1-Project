@@ -3,6 +3,7 @@
 =======
 >>>>>>> 4f85f85 (Day-0 Preset)
 streamlit>=1.30
+streamlit-camera-input-live>=0.2.0
 opencv-python>=4.8
 pillow>=10.0
 numpy>=1.24
