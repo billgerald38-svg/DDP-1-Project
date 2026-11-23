@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 4f85f85 (Day-0 Preset)
-streamlit>=1.30
-streamlit-camera-input-live>=0.2.0
-opencv-python>=4.8
-pillow>=10.0
-numpy>=1.24
-piexif>=1.1.3
-<<<<<<< HEAD
-=======
-
->>>>>>> 67019ad (Create requirements.txt)
-=======
->>>>>>> 4f85f85 (Day-0 Preset)
+streamlit
+streamlit-camera-input-live
+numpy
+pandas
+opencv-python
+pillow
+piexif
